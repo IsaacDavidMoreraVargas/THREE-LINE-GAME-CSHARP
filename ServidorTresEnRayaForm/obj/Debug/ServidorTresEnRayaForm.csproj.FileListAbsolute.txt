@@ -1,0 +1,11 @@
+C:\Users\Alcatraz\Desktop\ServidorTresEnRayaForm\ServidorTresEnRayaForm\obj\Debug\ServidorTresEnRayaForm.csprojAssemblyReference.cache
+C:\Users\Alcatraz\Desktop\ServidorTresEnRayaForm\ServidorTresEnRayaForm\obj\Debug\ServidorTresEnRayaForm.ServidorTresEnRayaForm.resources
+C:\Users\Alcatraz\Desktop\ServidorTresEnRayaForm\ServidorTresEnRayaForm\obj\Debug\ServidorTresEnRayaForm.Properties.Resources.resources
+C:\Users\Alcatraz\Desktop\ServidorTresEnRayaForm\ServidorTresEnRayaForm\obj\Debug\ServidorTresEnRayaForm.csproj.GenerateResource.cache
+C:\Users\Alcatraz\Desktop\ServidorTresEnRayaForm\ServidorTresEnRayaForm\obj\Debug\ServidorTresEnRayaForm.csproj.CoreCompileInputs.cache
+C:\Users\Alcatraz\Desktop\ServidorTresEnRayaForm\ServidorTresEnRayaForm\bin\Debug\ServidorTresEnRayaForm.exe.config
+C:\Users\Alcatraz\Desktop\ServidorTresEnRayaForm\ServidorTresEnRayaForm\bin\Debug\ServidorTresEnRayaForm.exe
+C:\Users\Alcatraz\Desktop\ServidorTresEnRayaForm\ServidorTresEnRayaForm\bin\Debug\ServidorTresEnRayaForm.pdb
+C:\Users\Alcatraz\Desktop\ServidorTresEnRayaForm\ServidorTresEnRayaForm\obj\Debug\ServidorTresEnRayaForm.exe
+C:\Users\Alcatraz\Desktop\ServidorTresEnRayaForm\ServidorTresEnRayaForm\obj\Debug\ServidorTresEnRayaForm.pdb
+C:\Users\Alcatraz\Desktop\ServidorTresEnRayaForm\ServidorTresEnRayaForm\obj\Debug\ServidorTresEnRayaForm.ClienteTresEnRayaForm.resources
